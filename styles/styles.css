@@ -20,12 +20,6 @@
 	text-align: center;
 }
 
-
-.to-do-list {
-	display: flex;
-	justify-content: center;
-}
-
 .task{
 	width: 50%;
 	overflow: hidden;
